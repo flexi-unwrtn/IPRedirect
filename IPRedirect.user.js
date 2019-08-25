@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         IPRedirect
 // @downloadURL  https://github.com/flexi-unwrtn/IPRedirect/raw/master/IPRedirect.user.js
-// @updateURL    https://github.com/flexi-unwrtn/IPRedirect/raw/master/IPRedirect.meta.user.js
+// @updateURL    https://github.com/flexi-unwrtn/IPRedirect/raw/master/IPRedirect.meta.js
 // @namespace    https://github.com/JayBrown
 // @version      1.3.0
 // @description  Interplanetary Redirect: JavaScript to redirect IPFS & IPNS addresses to localhost in the browser
